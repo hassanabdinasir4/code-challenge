@@ -1,0 +1,19 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Challenge-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassanabdinasir4/code-challenge.git"
+  },
+  "author": "\"Hassan\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassanabdinasir4/code-challenge/issues"
+  },
+  "homepage": "https://github.com/hassanabdinasir4/code-challenge#readme"
+}
