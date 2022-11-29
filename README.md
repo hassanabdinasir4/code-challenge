@@ -18,7 +18,7 @@ https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 ## Running Tests
 To run tests, run the following command
 ```bash
-  npm run test
+  npm run test using, (node Challange-1.js, node Challenge-2.js, node Challenge-3.js)
 ```
 ## Run Locally
 Clone the project
@@ -38,3 +38,6 @@ Start the server
   npm run start
 ```
 ## Authors "Hassan"
+aren.co.ke
+Tax Rates
+PAYE, NHIF and NSSF Parameters
